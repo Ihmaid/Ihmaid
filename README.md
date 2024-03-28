@@ -16,7 +16,7 @@
     <br>
 <p align="center">
    
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,python)](https://skillicons.dev)
    
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="256" height="256" rx="60" fill="#394AAB"/>
