@@ -11,7 +11,8 @@
 
 <div>
     <h2 align="left">⚙Habilidades</h2>
-    <span>Comecei meu estudo na programação em abril de 2023, por conta disso meu conhecimento é limitado.</span>
+    <span>Sou uma pessoa de rápido aprendizado, principalmente quando se trata de aprendizados práticos. Tenho como mantras as palavras constância, organização e disciplina, são esses pesnsamentos que
+    permitem a minha evolução na área de tecnologia.</span>
     <br>
     <br>
 <p align="center">
